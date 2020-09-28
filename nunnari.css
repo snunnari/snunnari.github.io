@@ -1,0 +1,59 @@
+
+.container {
+	margin-top: 40px;
+}
+
+.header-img {
+	width: 100%;
+    vertical-align: text-top;
+}
+
+.text-content {
+	padding-left: 15px;
+    padding-right: 15px;
+}
+
+div h1 {
+	font-size: 2.5rem;
+	padding-right: 1rem;
+}
+
+h2 span {
+    font-size: 10px;
+}
+
+div p {
+	margin-bottom: 1em;
+	/* text-align: justify; */
+}
+
+div h2 {
+	font-size: 2rem;
+	margin-bottom: 0.75em;
+}
+
+.abstract{
+	font-size:0.9em;
+	<!-- text-align: justify; -->
+}
+
+/* Set left column max-width to 30% (remember to change "col-md-9" to "col-md-8" in html) */
+/* @media (min-width: 768px) {
+	.col-md-3 {
+	    -webkit-box-flex: 0;
+	    -ms-flex: 0 0 25%;
+	    flex: 0 0 25%;
+	    max-width: 30%;
+		}
+} */
+
+/* Old website style */
+/* div a {color: #336699; text-decoration: none}
+div a:link { color: #336699; text-decoration: none}
+div a:visited { color: #336699; text-decoration: none}
+div a:hover { color: #6699cc; text-decoration: none}
+
+div {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; color: #000000;
+        }
+.footer {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; color: #666666}
+*/
