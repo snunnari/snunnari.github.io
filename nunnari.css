@@ -1,7 +1,16 @@
 
-.container {
-	margin-top: 40px;
+.container {/* Base style for all screen sizes */
+    margin-top: 40px;
+    padding-left: 15px;   
+    padding-right: 15px;  
 }
+
+@media (min-width: 768px) {/* Style for medium and large screens (tablets and desktops, starting at 768px) */
+    .container {
+        padding-right: 300px; /* Larger right padding to increase margins in medium and large screens */
+    }
+}
+
 
 .header-img {
 	width: 100%;
